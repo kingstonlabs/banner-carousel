@@ -1,22 +1,20 @@
 .banner {
   overflow: hidden;
   margin-bottom: 40px;
-  height: 400px; }
-  .banner .banner-controls {
-    position: relative;
+  height: 400px;
+  position: relative; }
+  .banner .banner-control {
     z-index: 10;
-    top: 50%; }
-    .banner .banner-controls .banner-control {
-      position: absolute;
-      width: 30px;
-      height: 30px;
-      margin-top: -15px; }
-      .banner .banner-controls .banner-control.banner-previous {
-        left: 10px; }
-      .banner .banner-controls .banner-control.banner-next {
-        right: 10px; }
+    position: absolute;
+    width: 30px;
+    height: 30px; }
+    .banner .banner-control.banner-previous {
+      left: 10px; }
+    .banner .banner-control.banner-next {
+      right: 10px; }
   .banner .banner-items {
-    position: relative; }
+    position: relative;
+    height: 100%; }
     .banner .banner-items .banner-item {
       background-size: cover;
       background-position: center;
