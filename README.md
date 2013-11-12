@@ -4,4 +4,4 @@ Make animated banner carousels by simply providing the mark up and setting optio
 
 See the demo here:
 
-http://htmlpreview.github.io/?https://github.com/tomkingston/banner-carousel/blob/master/demo.html
+http://htmlpreview.github.io/?https://github.com/kingstonlabs/banner-carousel/blob/master/demo.html
